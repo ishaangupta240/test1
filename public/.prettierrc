@@ -1,7 +1,0 @@
-{
-    "htmlWhitespaceSensitivity": "ignore",
-    "vueIndentScriptAndStyle": false,
-    "singleQuote": true,
-    "trailingComma": "none",
-    "tabWidth": 2
-  }
